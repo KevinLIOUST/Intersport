@@ -4,4 +4,20 @@ body {
   font-family: "Open Sans", sans-serif;
 }
 
+.img-player {
+  width: 53rem;
+  height: 60rem;
+}
+
+.div-gauche {
+  width: 50%;
+  height: 100%;
+}
+
+.taille-container {
+  width: 100%;
+  height: 100%;
+  border: 3px solid black;
+}
+
 /*# sourceMappingURL=style.css.map */

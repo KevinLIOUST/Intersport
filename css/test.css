@@ -1,0 +1,11 @@
+#img_container {
+    position:relative;
+    display:flex;
+    text-align:center;
+    border:1px solid red;
+}
+
+.button {
+    position:absolute;
+    width:auto;
+}
