@@ -5,12 +5,7 @@ body {
 }
 
 .img-player {
-  width: 53rem;
-  height: 60rem;
-}
-
-.div-gauche {
-  width: 50%;
+  width: 100%;
   height: 100%;
 }
 
@@ -18,6 +13,11 @@ body {
   width: 100%;
   height: 100%;
   border: 3px solid black;
+}
+
+.taille-cases {
+  width: 50%;
+  height: 50%;
 }
 
 /*# sourceMappingURL=style.css.map */
